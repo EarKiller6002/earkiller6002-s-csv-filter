@@ -1,0 +1,8 @@
+{
+  "name": "earkiller6002-s-csv-filter",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
